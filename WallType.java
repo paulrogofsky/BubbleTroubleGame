@@ -1,0 +1,4 @@
+
+public enum WallType {
+    STATIONARY,DESTROYABLE,OPENABLE,MOVABLE;
+}
